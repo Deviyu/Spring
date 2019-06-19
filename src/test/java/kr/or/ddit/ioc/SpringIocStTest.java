@@ -21,7 +21,7 @@ public class SpringIocStTest {
 	
 	@Resource(name="bService")
 	private IBoardService boardService;
-	
+	 
 	
 	@Test
 	public void Test() {
